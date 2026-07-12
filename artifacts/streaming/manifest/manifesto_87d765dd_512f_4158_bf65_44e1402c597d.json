@@ -1,0 +1,14 @@
+{
+  "execution_id": "87d765dd-512f-4158-bf65-44e1402c597d",
+  "arquivos": [
+    "/content/streaming_simulado/eventos_aceitos/eventos_aceitos_87d765dd_512f_4158_bf65_44e1402c597d.jsonl",
+    "/content/streaming_simulado/eventos_rejeitados/eventos_rejeitados_87d765dd_512f_4158_bf65_44e1402c597d.jsonl",
+    "/content/streaming_simulado/parquet/eventos_aceitos_87d765dd_512f_4158_bf65_44e1402c597d.parquet",
+    "/content/streaming_simulado/parquet/eventos_rejeitados_87d765dd_512f_4158_bf65_44e1402c597d.parquet",
+    "/content/streaming_simulado/logs/processamento_87d765dd_512f_4158_bf65_44e1402c597d.csv",
+    "/content/streaming_simulado/logs/processamento_87d765dd_512f_4158_bf65_44e1402c597d.jsonl"
+  ],
+  "arquivo_resumo": "/content/streaming_simulado/logs/resumo_87d765dd_512f_4158_bf65_44e1402c597d.csv",
+  "ambiente": "local_simulation",
+  "evento_simulado": true
+}
