@@ -1,0 +1,2 @@
+execution_id,inicio_utc,fim_utc,eventos_recebidos,eventos_aceitos,eventos_rejeitados,percentual_aceitos,percentual_rejeitados,duracao_simulacao_segundos,latencia_media_ms,latencia_p95_ms,eventos_por_segundo,erros_controlados_detectados,arquivos_criados,datasets_oficiais_protegidos,status_pipeline
+87d765dd-512f-4158-bf65-44e1402c597d,2026-07-12T14:13:38.720831+00:00,2026-07-12T14:40:01.894588+00:00,20,15,5,75.0,25.0,14.24,0.05,0.072,1.4,True,True,True,SUCESSO
