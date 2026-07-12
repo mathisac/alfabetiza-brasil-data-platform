@@ -1,0 +1,18 @@
+flowchart LR
+    A[Fontes educacionais e territoriais] --> B[Pipeline batch no Colab]
+    S[Eventos educacionais simulados] --> T[Streaming simulado]
+    B --> BR[BigQuery Bronze]
+    T --> L[Landing zone JSONL e Parquet]
+    L -.->|Convergência proposta| BR
+    BR --> QB[Quality gate Bronze em Python]
+    QB --> SI[BigQuery Silver]
+    SI --> QS[Quality gate Silver em SQL]
+    QS --> GO[BigQuery Gold]
+    GO --> QG[Quality gate Gold em SQL]
+    QG --> AN[Análises visuais e dashboards]
+    QG --> ML[Base para machine learning]
+    B --> LG[Logs e manifestos]
+    T --> LG
+    QB --> LG
+    QS --> LG
+    QG --> LG
