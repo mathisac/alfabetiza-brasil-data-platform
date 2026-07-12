@@ -1,0 +1,8 @@
+tabela,linhas_esperadas,linhas_obtidas,contagem_confere,chaves_distintas,chave_unica_confere,problemas_integridade,validacao_especifica
+aluno_analitico,3867999,3867999,True,3867999,True,0,True
+base_ml_aluno,3354661,3354661,True,3354661,True,0,True
+evolucao_municipio,5352,5352,True,5352,True,0,True
+indicador_brasil,3,3,True,3,True,0,True
+indicador_municipio,10704,10704,True,10704,True,0,True
+indicador_uf,81,81,True,81,True,0,True
+resumo_regiao,10,10,True,10,True,0,True

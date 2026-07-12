@@ -1,0 +1,8 @@
+tabela,linhas_fonte,linhas_silver,contagem_confere,chaves_distintas,chave_unica_confere,problemas_integridade,ausencias_preservadas
+alunos,3867999,3867999,True,3867999,True,0,True
+dim_municipio,5571,5571,True,5571,True,0,True
+meta_alfabetizacao_brasil,3,3,True,3,True,0,True
+meta_alfabetizacao_municipio,10704,10704,True,10704,True,0,True
+meta_alfabetizacao_uf,81,81,True,81,True,0,True
+municipio,23995,23995,True,23995,True,0,True
+uf,145,145,True,145,True,0,True
