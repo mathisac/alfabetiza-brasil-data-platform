@@ -47,10 +47,6 @@ Foram integradas sete tabelas:
 
 O enriquecimento territorial utiliza também o diretório oficial de municípios da Base dos Dados.
 
-Mais detalhes:
-
-- [Dicionário de dados](docs/dicionario_dados.md)
-
 ---
 
 ## Objetivo
@@ -417,12 +413,10 @@ A camada Gold pode apoiar:
 ```text
 alfabetiza-brasil-data-platform/
 ├── README.md
-├── requirements.txt
 ├── notebooks/
 │   ├── 01_pipeline_batch.ipynb
 │   ├── 02_streaming_simulado.ipynb
 │   ├── 03_pipeline_end_to_end.ipynb
-│   └── 04_analises_visuais.ipynb
 ├── src/
 │   └── quality/
 │       └── validate_bronze.py
