@@ -1,0 +1,2 @@
+execution_id,inicio_utc,fim_utc,duracao_segundos,etapas_executadas,bytes_processados,bronze_aprovada,silver_aprovada,gold_aprovada
+edd46773-51b2-4145-b489-09a398e33c9a,2026-07-12T15:58:05.150224+00:00,2026-07-12T15:59:29.859284+00:00,84.71,15,1039246040,True,True,True

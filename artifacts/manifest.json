@@ -1,0 +1,21 @@
+{
+  "execution_id": "edd46773-51b2-4145-b489-09a398e33c9a",
+  "project_id": "macro-coil-475920-k5",
+  "location": "US",
+  "inicio_utc": "2026-07-12T15:58:05.150224+00:00",
+  "fim_utc": "2026-07-12T15:59:29.859284+00:00",
+  "duracao_segundos": 84.71,
+  "quality_gate_bronze": true,
+  "quality_gate_silver": true,
+  "quality_gate_gold": true,
+  "pipeline_concluida": true,
+  "etapas_executadas": 15,
+  "etapas_com_sucesso": 15,
+  "bytes_processados": 1039246040,
+  "scripts_sql_exportados": 11,
+  "datasets": {
+    "bronze": "bronze",
+    "silver": "silver",
+    "gold": "gold"
+  }
+}
