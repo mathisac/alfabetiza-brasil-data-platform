@@ -12,7 +12,7 @@ flowchart LR
     S[Eventos educacionais simulados] --> T[Streaming simulado]
     B --> BR[BigQuery Bronze]
     T --> L[Landing zone JSONL e Parquet]
-    L --> BR
+    L -.->|Convergência proposta| BR
     BR --> QB[Quality gate Bronze em Python]
     QB --> SI[BigQuery Silver]
     SI --> QS[Quality gate Silver em SQL]
@@ -65,4 +65,4 @@ Cada execução produz registros operacionais, resumos e manifestos que permitem
 
 ## Separação entre dados oficiais e simulados
 
-Os eventos de streaming simulado são mantidos separados das fontes oficiais. Essa decisão evita que dados sintéticos alterem os indicadores educacionais usados nas análises finais.
+Os eventos de streaming simulado são mantidos separados das fontes oficiais na implementação atual. A ligação tracejada entre a landing zone e a Bronze representa uma convergência proposta para uma evolução futura da arquitetura, sem indicar que os eventos sintéticos foram incorporados às tabelas oficiais.

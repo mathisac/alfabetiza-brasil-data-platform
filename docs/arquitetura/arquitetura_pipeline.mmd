@@ -3,7 +3,7 @@ flowchart LR
     S[Eventos educacionais simulados] --> T[Streaming simulado]
     B --> BR[BigQuery Bronze]
     T --> L[Landing zone JSONL e Parquet]
-    L --> BR
+    L -.->|Convergência proposta| BR
     BR --> QB[Quality gate Bronze em Python]
     QB --> SI[BigQuery Silver]
     SI --> QS[Quality gate Silver em SQL]
