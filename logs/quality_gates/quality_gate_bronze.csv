@@ -1,0 +1,8 @@
+tabela,origem_existe,bronze_existe,linhas_origem,linhas_bronze,contagem_confere,mb_origem,mb_bronze
+alunos,True,True,3867999,3867999,True,256.1,256.1
+dicionario,True,True,27,27,True,0.0,0.0
+meta_alfabetizacao_brasil,True,True,3,3,True,0.0,0.0
+meta_alfabetizacao_municipio,True,True,10704,10704,True,1.1,1.1
+meta_alfabetizacao_uf,True,True,81,81,True,0.01,0.01
+municipio,True,True,23995,23995,True,1.75,1.75
+uf,True,True,145,145,True,0.01,0.01
