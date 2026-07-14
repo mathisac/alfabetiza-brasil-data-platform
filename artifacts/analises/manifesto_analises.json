@@ -1,0 +1,22 @@
+{
+  "municipios_2024": 5352,
+  "comparacoes_validas": 5232,
+  "meta_atingida": 2788,
+  "percentual_meta_atingida": 53.29,
+  "meta_nao_atingida": 2444,
+  "percentual_meta_nao_atingida": 46.71,
+  "municipios_sem_meta": 120,
+  "municipios_sem_resultado": 0,
+  "gap_medio_entre_nao_atingidos": 11.28,
+  "gap_mediano_entre_nao_atingidos": 8.6,
+  "municipios_que_avancaram": 3061,
+  "percentual_que_avancou": 58.51,
+  "municipios_que_recuaram": 2157,
+  "percentual_que_recuou": 41.23,
+  "municipios_estaveis": 14,
+  "municipios_criticos": 1916,
+  "percentual_municipios_criticos": 36.62,
+  "correlacao_participacao_resultado": 0.2837,
+  "tabelas_exportadas": 13,
+  "graficos_exportados": 8
+}

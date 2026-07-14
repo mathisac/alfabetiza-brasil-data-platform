@@ -1,0 +1,5 @@
+faixa_participacao,quantidade_municipios,participacao_media,resultado_medio,percentual_meta_atingida,correlacao_participacao_resultado
+Abaixo de 80%,315,76.020000000,51.870000000,35.89,0.0174
+"80% a 89,99%",1737,86.110000000,58.780000000,46.35,0.1797
+"90% a 94,99%",1710,92.520000000,63.350000000,53.47,-0.0405
+95% ou mais,1590,97.760000000,69.580000000,63.72,0.1917
